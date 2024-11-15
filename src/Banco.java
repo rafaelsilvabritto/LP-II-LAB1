@@ -2,7 +2,6 @@ import java.util.ArrayList;
 
 public class Banco {
     private ArrayList<Cliente> clientes;
-
     public Banco() {
         this.clientes = new ArrayList<>();
     }
